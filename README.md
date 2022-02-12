@@ -2,7 +2,7 @@
 - 👀 I’m interested in tinkering and contraptions
 - 🌱 I’m currently learning indoor agriculture
 - 💞️ I’m looking to collaborate on controlling physical devices via computers
-- 📫 Hpgibson404@gmail.com
+- 📫 pgibson404@gmail.com
 
 <!---
 bigsavings/bigsavings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
